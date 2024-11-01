@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Astronomy Website</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>Welcome to the Astronomy Website</header>
+    <script src="scripts.js"></script>
+</body>
+</html>
